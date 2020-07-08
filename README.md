@@ -3,4 +3,4 @@ MATLAB based code solving 2D heat transfer using Thomas algorithm (also known as
 
 Sample output : 
 
-![Temp_dist](/Temp_dist.png){:height="50%" width="50%"}
+<img src="/Temp_dist.png" width="800" >
